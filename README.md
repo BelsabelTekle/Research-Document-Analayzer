@@ -14,7 +14,7 @@ This project consists of two main components:
 
 Backend: Developed using Flask, it handles API requests, file processing, and interaction with MongoDB.
 
-Frontend: Developed using React, it provides a user-friendly interface for uploading documents, viewing summaries, and asking questions.
+Frontend: Developed using React, Javascript, HTML and CSS , it provides a user-friendly interface for uploading documents, viewing summaries, and asking questions.
 
 ## Getting Started
 ### Prerequisites
