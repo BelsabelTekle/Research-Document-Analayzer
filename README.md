@@ -13,6 +13,7 @@ Frontend: Responsive user interface built with React.
 This project consists of two main components:
 
 Backend: Developed using Flask, it handles API requests, file processing, and interaction with MongoDB.
+
 Frontend: Developed using React, it provides a user-friendly interface for uploading documents, viewing summaries, and asking questions.
 
 ## Getting Started
@@ -20,45 +21,64 @@ Frontend: Developed using React, it provides a user-friendly interface for uploa
 Ensure you have the following installed:
 
 Python 3.8 or higher
+
 MongoDB: To store users and document data.
+
 OpenAI API Key: For accessing the GPT models.
+
 Hugging Face Transformers: For T5 and BERT models.
 
 ### Installation
 1. Clone the Repository:
+
    git clone https://github.com/yourusername/research-document-analyzer.git
+
    cd research-document-analyzer
 
-2. Set Up a Virtual Environment:
+3. Set Up a Virtual Environment:
+
    python3 -m venv venv
+
    source venv/bin/activate   # On Windows, use `venv\Scripts\activate`
 
-3. Install Dependencies:
+4. Install Dependencies:
    pip install -r requirements.txt
 
-4. Configure Environment Variables:
+5. Configure Environment Variables:
+
    Create a .env file in the root directory and add the following:
+
    OPENAI_API_KEY=your_openai_api_key
+
    MONGODB_URL=your_mongodb_connection_string
 
-5. Run the Application:
+7. Run the Application:
+
    Start the Flask server:
+
    python app.py
+
    the backend will be available at http://127.0.0.1:5000/.
 
 ## Frontend Setup
 
 1. Navigate to the Frontend Directory:
+
    cd ../frontend
 
-2. Install Dependencies:
+3. Install Dependencies:
+
    Install all required npm packages:
+
    npm install
 
-3. Run the Frontend Development Server:
+5. Run the Frontend Development Server:
+
    Start the React development server:
+
    npm start
-The frontend will be available at http://127.0.0.1:3000/.
+
+   The frontend will be available at http://127.0.0.1:3000/.
 
 
 
