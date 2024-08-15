@@ -47,7 +47,6 @@ Hugging Face Transformers: For T5 and BERT models.
 5. Configure Environment Variables:
 
    Create a .env file in the root directory and add the following:
-
    OPENAI_API_KEY=your_openai_api_key
 
    MONGODB_URL=your_mongodb_connection_string
@@ -55,27 +54,21 @@ Hugging Face Transformers: For T5 and BERT models.
 7. Run the Application:
 
    Start the Flask server:
-
    python app.py
 
-   the backend will be available at http://127.0.0.1:5000/.
+   The backend will be available at http://127.0.0.1:5000/.
 
 ## Frontend Setup
 
 1. Navigate to the Frontend Directory:
-
    cd ../frontend
 
 3. Install Dependencies:
-
    Install all required npm packages:
-
    npm install
 
 5. Run the Frontend Development Server:
-
    Start the React development server:
-
    npm start
 
    The frontend will be available at http://127.0.0.1:3000/.
