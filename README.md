@@ -69,7 +69,11 @@ Hugging Face Transformers: For T5 and BERT models.
 
 5. Run the Frontend Development Server:
    Start the React development server:
-   npm start
+
+   ```bash
+    npm start
+    ```
+
 
    The frontend will be available at http://127.0.0.1:3000/.
 
