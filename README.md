@@ -73,12 +73,14 @@ Hugging Face Transformers: For T5 and BERT models.
     ```
 
 3. Install Dependencies:
+
    Install all required npm packages:
     ```bash
    npm install
       ```
 
 5. Run the Frontend Development Server:
+
    Start the React development server:
    ```bash
     npm start
