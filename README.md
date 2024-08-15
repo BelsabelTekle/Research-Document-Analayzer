@@ -43,7 +43,7 @@ Hugging Face Transformers: For T5 and BERT models.
    ```
 
 4. Install Dependencies:
- ```bash
+   ```bash
    pip install -r requirements.txt
    ```
 
