@@ -97,6 +97,10 @@ Hugging Face Transformers: For T5 and BERT models.
 
    ## Demo
    https://www.youtube.com/watch?v=0M7PHDMFufo
+
+   ## Google Slide
+   https://docs.google.com/presentation/d/1pQiXFRrFfMmOEXToNrYmEYnepSTQ1tFmfifduqbhk1A/edit#slide=id.g2f385c89241_3_0
+   
    
 
 
