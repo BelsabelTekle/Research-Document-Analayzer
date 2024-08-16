@@ -4,9 +4,13 @@ Research Document Analyzer is a web application developed to streamline the proc
 
 ## Features
 Document Summarization: Automatically generate concise summaries of research papers, highlighting key points such as authorship, purpose, methodology, findings, and conclusions.
+
 Q&A Functionality: Ask questions related to the content of research documents and receive accurate, context-driven answers.
+
 File Support: Upload both PDF and DOCX files for analysis.
+
 User Authentication: Secure user registration and login with JSON Web Tokens (JWT).
+
 Frontend: Responsive user interface built with React.
 
 ## Architecture
