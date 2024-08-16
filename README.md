@@ -37,7 +37,7 @@ Hugging Face Transformers: For T5 and BERT models.
 ### Installation
 1. Clone the Repository:
       ```bash
-   git clone https://github.com/BelsabelTekle/research-document-analyzer.git
+   git clone https://github.com/BelsabelTekle/Research-Document-Analyzer.git
    cd research-document-analyzer
       ```
 
